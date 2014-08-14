@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "enrique.basanez@gmail.com",
+    "longName": "[C]DICE ROLLER",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Dice Roller",
+    "uuid": "486f5fb5-54bf-449c-850b-9a10bcfe9d14",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
